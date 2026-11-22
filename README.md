@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFCDE5&height=180&section=header&text=Artificial%20Intelligence&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Praktikum%20Pemrograman%20AI&descAlignY=70&descSize=20" width="100%">
